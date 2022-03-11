@@ -19,7 +19,9 @@
   <img align="center" alt="murilo.react" height="50" width"70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img align="center" alt="murilo.node" height="50" width"70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="murilo.mysql" height="50" width"70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  
+  <img align="center" alt="murilo.gimp" height="50" width"70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
+
+    
   </div>
   
 </body>
