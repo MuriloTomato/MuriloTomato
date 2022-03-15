@@ -9,7 +9,7 @@
  <h1>REPOSITÓRIOS:</h1>
  - Formulário-de-Pesquisa = HTML + CSS PURO ✅ <br>
  - MuriloTomato = Meu README ✅ <br>
- - Barbeiro = HTML + CSS + JAVASCRIPT PURO 🕒 <br>
+ - Barbearia = HTML + CSS + JAVASCRIPT PURO 🕒 <br>
  <h2>✅ = Concluído     🕒 = Em Desenvolvimento
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
