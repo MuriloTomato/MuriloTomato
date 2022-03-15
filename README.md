@@ -5,6 +5,12 @@
 - 💬 Me pergunte o que quiser, estou aqui para ajudar :)
 - 📫 Eu estou no Linkedin: https://www.linkedin.com/in/murilo-andr%C3%A9-de-souza-6009451ab/
 - ⚡ Curiosidade: Fiz curso técnico de Automação Industrial, sei hipnose, trabalho como auxiliar administrativo no setor de manutenção, porém, o emprego dos meus sonhos é de desenvolvedor Front-End...
+
+ <h1>REPOSITÓRIOS:</h1>
+ - Formulário-de-Pesquisa = HTML + CSS PURO ✅ <br>
+ - MuriloTomato = Meu README ✅ <br>
+ - Barbeiro = HTML + CSS + JAVASCRIPT PURO 🕒 <br>
+ <h2>✅ = Concluído     🕒 = Em Desenvolvimento
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
