@@ -1,4 +1,4 @@
-## Hello World! 👋
+# Hello World! 👋
 - 🌱 Estou aprendendo o famoso trio HTML, CSS & JavaScript e suas tecnologias;
 - 👯 Eu busco colaborar com a comunidade do GitHub, ajudando com soluções e visões;
 - 🤔 Eu busco ajuda para me introduzir no mercado de trabalho de tecnologia (de preferência como Front-End);
